@@ -1,4 +1,6 @@
 # Relatorio-Full
+https://app.powerbi.com/view?r=eyJrIjoiNDJkOGJhNGQtN2FlNi00ZmVlLWJlODUtNmQxZDhiMzE3NjQ0IiwidCI6IjhjNzA4YWE5LTk0MDEtNGQ4Yi05MDBlLTIyMjJhMjhjZWViZCJ9&pageName=f409a950117d350128e5
+
 
 Desenvolvi um projeto inovador para otimizar o estoque de Full no Mercado Livre, onde os produtos são enviados e entregues diretamente pela plataforma. O objetivo era resolver dois problemas críticos:
 
